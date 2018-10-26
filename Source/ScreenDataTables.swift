@@ -240,7 +240,7 @@ let screenDataTable = [
   
   // iPad Mini 4 Wifi + Cellular (model A1550)
   "iPad5,2": ScreenData(resolution: CGSize(width: 1536, height: 2048), 
-                        ppi: 264),
+                        ppi: 326),
   
   // iPad Air 2 Wifi (model A1566)
   "iPad5,3": ScreenData(resolution: CGSize(width: 1536, height: 2048), 
