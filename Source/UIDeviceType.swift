@@ -16,4 +16,6 @@ public enum UIDeviceType {
   case iPadPro12_9
   case iPodTouch
   case iPhoneSE
+  case iPadMini
+  case iPadPro
 }

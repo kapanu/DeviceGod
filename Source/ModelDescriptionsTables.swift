@@ -7,7 +7,7 @@
 //
 
 let deviceDescription = [
-  //iPhone
+  // iPhone
   "iPhone1,1": "iPhone",
   "iPhone1,2": "iPhone 3G",
   "iPhone2,1": "iPhone 3GS",
@@ -36,10 +36,10 @@ let deviceDescription = [
   "iPhone10,3": "iPhone X (CDMA)",
   "iPhone10,6": "iPhone X (GSM)",
 
-  //iPad 1
+  // iPad 1
   "iPad1,1": "iPad - Wifi (model A1219) or iPad - Wifi + Cellular (model A1337)",
 
-  //iPad 2
+  // iPad 2
   "iPad2,1": "Wifi (model A1395)",
   "iPad2,2": "GSM (model A1396)",
   "iPad2,3": "3G (model A1397)",
@@ -50,17 +50,17 @@ let deviceDescription = [
   "iPad2,6": "Wifi + Cellular (model  A1454)",
   "iPad2,7": "Wifi + Cellular (model  A1455)",
 
-  //iPad 3
+  // iPad 3
   "iPad3,1": "Wifi (model A1416)",
   "iPad3,2": "Wifi + Cellular (model  A1403)",
   "iPad3,3": "Wifi + Cellular (model  A1430)",
 
-  //iPad 4
+  // iPad 4
   "iPad3,4": "Wifi (model A1458)",
   "iPad3,5": "Wifi + Cellular (model  A1459)",
   "iPad3,6": "Wifi + Cellular (model  A1460)",
 
-  //iPad AIR
+  // iPad AIR
   "iPad4,1": "Wifi (model A1474)",
   "iPad4,2": "Wifi + Cellular (model A1475)",
   "iPad4,3": "Wifi + Cellular (model A1476)",
@@ -79,31 +79,31 @@ let deviceDescription = [
   "iPad5,1": "Wifi (model A1538)",
   "iPad5,2": "Wifi + Cellular (model A1550)",
 
-  //iPad AIR 2
+  // iPad AIR 2
   "iPad5,3": "Wifi (model A1566)",
   "iPad5,4": "Wifi + Cellular (model A1567)",
 
-  // iPad PRO 9.7",
+  // iPad Pro 9.7",
   "iPad6,3": "Wifi (model A1673)",
   "iPad6,4": "Wifi + Cellular (model A1674) or Wifi + Cellular (model A1675)",
 
-  //iPad PRO 12.9",
+  // iPad Pro 12.9",
   "iPad6,7": "Wifi (model A1584)",
   "iPad6,8": "Wifi + Cellular (model A1652)",
 
-  //iPad (5th generation)
+  // iPad (5th generation)
   "iPad6,11": "Wifi (model A1822)",
   "iPad6,12": "Wifi + Cellular (model A1823)",
 
-  //iPad PRO 12.9" (2nd Gen)
+  // iPad Pro 12.9" (2nd Gen)
   "iPad7,1": "Wifi (model A1670)",
   "iPad7,2": "Wifi + Cellular (model A1671) or Wifi + Cellular (model A1821)",
 
-  //iPad PRO 10.5",
+  // iPad Pro 10.5",
   "iPad7,3": "Wifi (model A1701)",
   "iPad7,4": "Wifi + Cellular (model A1709)",
 
-  //iPod Touch
+  // iPod Touch
   "iPod1,1": "iPod Touch 1st Generation (model A1213)",
   "iPod2,1": "iPod Touch 2nd Generation (model A1288, A1319 (China))",
   "iPod3,1": "iPod Touch 3rd Generation (model A1318)",
