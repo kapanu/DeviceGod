@@ -35,7 +35,11 @@ let deviceDescription = [
   "iPhone10,5": "iPhone 8 Plus (GSM)",
   "iPhone10,3": "iPhone X (CDMA)",
   "iPhone10,6": "iPhone X (GSM)",
-
+  "iPhone11,2": "iPhone XS",
+  "iPhone11,4": "iPhone XS Max (CDMA?)",
+  "iPhone11,6": "iPhone XS Max (GSM?)",
+  "iPhone11,8": "iPhone XR",
+  
   // iPad 1
   "iPad1,1": "iPad - Wifi (model A1219) or iPad - Wifi + Cellular (model A1337)",
 

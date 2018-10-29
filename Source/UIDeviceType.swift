@@ -13,6 +13,7 @@ public enum UIDeviceType {
   case iPad
   case iPhonePlus
   case iPhoneX
+  case iPhoneXFamily
   case iPadPro12_9
   case iPodTouch
   case iPhoneSE
